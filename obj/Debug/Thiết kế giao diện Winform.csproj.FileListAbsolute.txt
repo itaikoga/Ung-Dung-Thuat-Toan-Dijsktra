@@ -1,0 +1,12 @@
+C:\Users\thong\source\repos\New folder\Dijkstra-Path\obj\Debug\Thiết kế giao diện Winform.csproj.AssemblyReference.cache
+C:\Users\thong\source\repos\New folder\Dijkstra-Path\obj\Debug\DijkstraTest2.Form1.resources
+C:\Users\thong\source\repos\New folder\Dijkstra-Path\obj\Debug\DijkstraTest2.Properties.Resources.resources
+C:\Users\thong\source\repos\New folder\Dijkstra-Path\obj\Debug\Thiết kế giao diện Winform.csproj.GenerateResource.cache
+C:\Users\thong\source\repos\New folder\Dijkstra-Path\obj\Debug\Thiết kế giao diện Winform.csproj.CoreCompileInputs.cache
+C:\Users\thong\source\repos\New folder\Dijkstra-Path\DijkstraTest2.exe.config
+C:\Users\thong\source\repos\New folder\Dijkstra-Path\obj\Debug\DijkstraTest2.exe
+C:\Users\thong\source\repos\New folder\Dijkstra-Path\bin\Debug\DijkstraTest2.xml
+C:\Users\thong\source\repos\New folder\Dijkstra-Path\obj\Debug\DijkstraTest2.pdb
+C:\Users\thong\source\repos\New folder\Dijkstra-Path\DijkstraTest2.exe
+C:\Users\thong\source\repos\New folder\Dijkstra-Path\DijkstraTest2.pdb
+C:\Users\thong\source\repos\New folder\Dijkstra-Path\DijkstraTest2.xml
